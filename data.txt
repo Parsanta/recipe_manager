@@ -1,0 +1,4 @@
+name:apple
+Recipes:mash
+name:banana
+Recipes:smoothie
