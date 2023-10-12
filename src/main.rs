@@ -1,7 +1,7 @@
 pub mod lib;
 
-use std::fs::{File, OpenOptions};
-use std::io::{self, Write};
+use std::fs::{OpenOptions};
+use std::io::{self};
 use lib::RecipeManager;
 
 fn get_user_input(prompt: &str) -> String {
